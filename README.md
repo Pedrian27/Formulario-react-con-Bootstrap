@@ -16,6 +16,6 @@ npm install
 
 ----
 para dar con la ejecucion le damos
-npm run start
+npm start
 
 
